@@ -1,0 +1,19 @@
+html,
+body,
+#app,
+div {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", SimSun, sans-serif;
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 14px;
+    line-height: 1.8;
+    background: #f7f7f7;
+    transition: background 1s cubic-bezier(0.075, 0.82, 0.165, 1);
+    overflow-y: scroll;
+    -webkit-user-select: initial !important;
+    user-select: initial !important;
+}

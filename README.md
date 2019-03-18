@@ -1,4 +1,4 @@
-# the-document
+# TheDocument
 
 ## Project setup
 ```
